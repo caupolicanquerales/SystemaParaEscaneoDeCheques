@@ -1,1 +1,2 @@
-
+Esta carpeta contiene el proyecto de la dll del driver del escaner en C#, por razones de librerias adicionadas al proyecto, su tamano es mayor al 
+permitido de 25MB y esta separado para poder ser subido a gitHub
