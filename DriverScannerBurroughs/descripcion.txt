@@ -1,0 +1,1 @@
+Esta carpeta contiene el driver del scanner suministrado por Burroughs para su familia de scanner de cheques
