@@ -1,0 +1,1 @@
+Esta carpeta contiene el instalador del driver ScannerControl para la implemantacion del escaneo usando ActiveX.
